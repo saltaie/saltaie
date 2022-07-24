@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sinan Al Taie
-- 👀 I’m interested in Data Engineering Field
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on R, Python and SQL
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Pen Testing
+- 💞️ I’m looking to collaborate on Python, Kali Linux and Cybersecurity tools
 - 📫 How to reach me via email: sinan.altaie@yahoo.com
 
 <!---
